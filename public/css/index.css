@@ -1,0 +1,13 @@
+.left{
+    min-height: 100px;
+    width: 31.3333333%;
+    margin-right: 2%;
+    float: left;
+    background-color: silver;
+}
+.right{
+    min-height: 100px;
+    width: 66.6666666%;
+    float: left;
+    background-color: silver;
+}
